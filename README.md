@@ -17,3 +17,8 @@
 - Naci neki recnik sa interneta koji ce se koristi za igru
 - Generisanje matrice slova koja sadrzi date reci
 
+##Zaduzenja
+
+-Generisanje matrice , zvucni efekti (jana)
+-Unosenje reci iz fajla sa svim recima i ubacivanje u matricu(jovan)
+-Logika za klikove i kraj igre (andrija i vidak)
