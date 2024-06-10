@@ -19,8 +19,8 @@
 
 ## Zaduzenja
 
-  -Generisanje matrice , zvucni efekti (jana)
-  -Unosenje reci iz fajla sa svim recima i ubacivanje u matricu(jovan)
-  -Logika za klikove i kraj igre (andrija i vidak)
+- Generisanje matrice , zvucni efekti (jana)
+- Unosenje reci iz fajla sa svim recima i ubacivanje u matricu(jovan)
+- Logika za klikove i kraj igre (andrija i vidak)
 
 
